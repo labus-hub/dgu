@@ -383,7 +383,7 @@ header {
 
 /* Qualities Section */
 .qualities {
-    padding: 100px 0;
+    padding: 50px 0;
     background-color: var(--bg-light);
     transition: var(--transition);
 }
@@ -493,7 +493,7 @@ header {
 
 /* Philosophy Section */
 .philosophy {
-    padding: 100px 0;
+    padding: 50px 0;
     background-color: var(--bg-light);
     text-align: center;
     transition: var(--transition);
