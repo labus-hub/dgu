@@ -372,7 +372,13 @@ header {
 }
 
 .value-card p {
+    font-size: 0.8rem;
     color: var(--text-light);
+    margin-bottom: 30px;
+    text-align: justify;
+    word-break: break-word;
+    overflow-wrap: anywhere;
+    hyphens: auto;
 }
 
 /* Qualities Section */
